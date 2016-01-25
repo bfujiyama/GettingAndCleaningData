@@ -26,3 +26,6 @@ These variables identify the unique subject/activity pair the variables relate t
   * Sitting  
   * Standing  
   * Laying  
+
+Information about the variables used on the feature vector can be found in the features_info.txt file of the dataset.  
+The complete list of variables of each feature vector is available in the features.txt file of the dataset. 
