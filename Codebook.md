@@ -24,14 +24,3 @@ These variables identify the unique subject/activity pair the variables relate t
   * Sitting  
   * Standing  
   * Laying  
-
-Additional vectors obtained by averaging the signals in a signal window sample. These are used on the angle() variable:  
-
-+ gravityMean  
-+ tBodyAccMean  
-+ tBodyAccJerkMean  
-+ tBodyGyroMean  
-+ tBodyGyroJerkMean  
-
-Other estimates have been removed for the purpose of this excercise.
-
